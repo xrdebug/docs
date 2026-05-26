@@ -46,6 +46,7 @@ A client library is a wrapper around the HTTP API and it enables to debug your a
 
 | Technology | Package                                                   |
 | ---------- | --------------------------------------------------------- |
+| Laravel    | [xrdebug/laravel](https://github.com/xrdebug/laravel)     |
 | PHP        | [xrdebug/php](https://github.com/xrdebug/php)             |
 | WordPress  | [xrdebug/wordpress](https://github.com/xrdebug/wordpress) |
 
